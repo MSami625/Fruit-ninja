@@ -52,7 +52,7 @@
 
 
     function draw(){
-      background("pink");
+      background("violet");
 
       text("SCORE:"+ score,520,30);
 
