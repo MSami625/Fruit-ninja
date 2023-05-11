@@ -4,8 +4,10 @@
 
     var fruitGroup,fruit1,fruit2,fruit3,fruit4;
 
+    
     var enemy,alienGroup,alien1,alien2;
 
+    
     var knife;
 
     var gameOverImg;
