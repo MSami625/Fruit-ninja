@@ -30,7 +30,7 @@
       knifeImg=loadImage("knife.png");
       gameOverImg=loadImage("gameover.jpeg");
 
-      gameoverSound=loadSound("gameover.mp3");
+      gameoverSound=loadSound("gameoversound.wav");
       knifeSound=loadSound("knifeSwooshSound2.mp3");
     }
 
