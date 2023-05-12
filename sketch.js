@@ -4,8 +4,10 @@
 
     var fruitGroup,fruit1,fruit2,fruit3,fruit4;
 
+    
     var enemy,alienGroup,alien1,alien2;
 
+    
     var knife;
 
     var gameOverImg;
@@ -26,10 +28,10 @@
       fruit3Img=loadImage("fruit3.png");
       fruit4Img=loadImage("fruit4.png");
       knifeImg=loadImage("knife.png");
-      gameOverImg=loadImage("gameover.png");
+      gameOverImg=loadImage("gameover.jpeg");
 
-      gameoverSound=loadSound("gameover.mp3");
-      knifeSound=loadSound("knifeSwooshSound.mp3");
+      gameoverSound=loadSound("gameoversound.wav");
+      knifeSound=loadSound("knifeSwooshSound2.mp3");
     }
 
     function setup(){
